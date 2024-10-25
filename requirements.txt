@@ -19,7 +19,7 @@ scikit-learn==0.19.1
 scipy==1.0.0
 SQLAlchemy==1.2.2
 termcolor==1.1.0
-Werkzeug==0.14.1
+Werkzeug==3.0.6
 XlsxWriter==0.7.3
 yarg==0.1.9
 numpy==1.9.1
